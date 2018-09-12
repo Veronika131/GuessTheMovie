@@ -54,12 +54,10 @@ public class GuessTheMovie {
                     //update guessesSoFar with new letter
                     guessesSoFar += letter;
                     //print new masked word with correct guessed letters uncovered
-                    updatedWord = randomMovie.replaceAll(
-                            "[^"+ guessesSoFar +"]","-");
+                    updatedWord = randomMovie.replaceAll("[^"+ guessesSoFar +"]","-");
                     System.out.println(updatedWord);
 
-                    System.out.println("You have guessed (" + wrongCount
-                            + ") wrong letter(s): " + wrongGuesses);
+                    System.out.println("You have guessed (" + wrongCount + ") wrong letter(s): " + wrongGuesses);
 
                     if(updatedWord.equals(randomMovie)) {
                         System.out.println("*** CONGRATS - You WON!!!! ***");
