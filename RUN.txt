@@ -1,0 +1,236 @@
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+Test file:  movies.txt
+
+NOTES:  - Testing code by playing regular guessing game
+--------------------------------------------------------------------------------------------------------
+
+Length of the movie title: 11
+
+Guess this title: -----------
+
+Guess a letter:
+a
+Letter a is a wrong guess.
+You have guessed (1) wrong letter(s). a
+
+Guess a letter:
+o
+Letter o is a wrong guess.
+You have guessed (2) wrong letter(s). a o
+
+Guess a letter:
+i
+-i--- -----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+f
+fi--- -----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+g
+fig-- -----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+h
+figh- -----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+t
+fight -----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+c
+fight c----
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+l
+fight cl---
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+u
+fight clu--
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+b
+fight club-
+You have guessed (2) wrong letter(s):  a o
+
+Guess a letter:
+1
+fight club1
+You have guessed (2) wrong letter(s):  a o
+*** CONGRATS - You WON!!!! ***
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+Test file:  movies.txt
+
+NOTES:  - Testing code by purposely guessing wrong letters
+--------------------------------------------------------------------------------------------------------
+Length of the movie title: 5
+
+Guess this title: -----
+
+Guess a letter:
+x
+Letter x is a wrong guess.
+You have guessed (1) wrong letter(s). x
+
+Guess a letter:
+q
+Letter q is a wrong guess.
+You have guessed (2) wrong letter(s). x q
+
+Guess a letter:
+p
+Letter p is a wrong guess.
+You have guessed (3) wrong letter(s). x q p
+
+Guess a letter:
+r
+r----
+You have guessed (3) wrong letter(s):  x q p
+
+Guess a letter:
+z
+Letter z is a wrong guess.
+You have guessed (4) wrong letter(s). x q p z
+
+Guess a letter:
+c
+Letter c is a wrong guess.
+You have guessed (5) wrong letter(s). x q p z c
+
+Guess a letter:
+b
+Letter b is a wrong guess.
+You have guessed (6) wrong letter(s). x q p z c b
+
+Guess a letter:
+y
+Letter y is a wrong guess.
+You have guessed (7) wrong letter(s). x q p z c b y
+
+Guess a letter:
+u
+Letter u is a wrong guess.
+You have guessed (8) wrong letter(s). x q p z c b y u
+
+Guess a letter:
+k
+Letter k is a wrong guess.
+You have guessed (9) wrong letter(s). x q p z c b y u k
+
+Guess a letter:
+h
+Letter h is a wrong guess.
+You have guessed (10) wrong letter(s). x q p z c b y u k h
+*** Sorry you ran out of guesses.  Try again next time. ***
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+Test file:  movies.txt
+
+NOTES:  - Testing code by regular guessing again
+--------------------------------------------------------------------------------------------------------
+Length of the movie title: 12
+
+Guess this title: ------------
+
+Guess a letter:
+t
+--t- -- ----
+You have guessed (0) wrong letter(s):
+
+Guess a letter:
+o
+--t- o- -o--
+You have guessed (0) wrong letter(s):
+
+Guess a letter:
+z
+Letter z is a wrong guess.
+You have guessed (1) wrong letter(s). z
+
+Guess a letter:
+m
+Letter m is a wrong guess.
+You have guessed (2) wrong letter(s). z m
+
+Guess a letter:
+a
+Letter a is a wrong guess.
+You have guessed (3) wrong letter(s). z m a
+
+Guess a letter:
+i
+-it- o- -o--
+You have guessed (3) wrong letter(s):  z m a
+
+Guess a letter:
+f
+-it- of -o--
+You have guessed (3) wrong letter(s):  z m a
+
+Guess a letter:
+g
+-it- of go--
+You have guessed (3) wrong letter(s):  z m a
+
+Guess a letter:
+n
+Letter n is a wrong guess.
+You have guessed (4) wrong letter(s). z m a n
+
+Guess a letter:
+l
+Letter l is a wrong guess.
+You have guessed (5) wrong letter(s). z m a n l
+
+Guess a letter:
+r
+Letter r is a wrong guess.
+You have guessed (6) wrong letter(s). z m a n l r
+
+Guess a letter:
+d
+-it- of god-
+You have guessed (6) wrong letter(s):  z m a n l r
+
+Guess a letter:
+1
+-it- of god1
+You have guessed (6) wrong letter(s):  z m a n l r
+
+Guess a letter:
+k
+Letter k is a wrong guess.
+You have guessed (7) wrong letter(s). z m a n l r k
+
+Guess a letter:
+w
+Letter w is a wrong guess.
+You have guessed (8) wrong letter(s). z m a n l r k w
+
+Guess a letter:
+e
+Letter e is a wrong guess.
+You have guessed (9) wrong letter(s). z m a n l r k w e
+
+Guess a letter:
+b
+Letter b is a wrong guess.
+You have guessed (10) wrong letter(s). z m a n l r k w e b
+*** Sorry you ran out of guesses.  Try again next time. ***
