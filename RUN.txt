@@ -234,3 +234,85 @@ b
 Letter b is a wrong guess.
 You have guessed (10) wrong letter(s). z m a n l r k w e b
 *** Sorry you ran out of guesses.  Try again next time. ***
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+Test file:  movies.txt
+
+NOTES:  - Testing code by entering more than one guess letters
+--------------------------------------------------------------------------------------------------------
+
+Length of the movie title: 8
+
+Guess this title: --------
+
+Guess a letter:
+o
+Letter o is a wrong guess.
+You have guessed (1) wrong letter(s). o
+
+Guess a letter:
+a
+-a---a--
+You have guessed (1) wrong letter(s):  o
+
+Guess a letter:
+t
+Letter t is a wrong guess.
+You have guessed (2) wrong letter(s). o t
+
+Guess a letter:
+e
+Letter e is a wrong guess.
+You have guessed (3) wrong letter(s). o t e
+
+Guess a letter:
+h
+Letter h is a wrong guess.
+You have guessed (4) wrong letter(s). o t e h
+
+Guess a letter:
+g
+Letter g is a wrong guess.
+You have guessed (5) wrong letter(s). o t e h g
+
+Guess a letter:
+asdf
+You can only guess one letter! TRY AGAIN.
+
+Guess a letter:
+as
+You can only guess one letter! TRY AGAIN.
+
+Guess a letter:
+o
+Letter o is a wrong guess.
+You have guessed (6) wrong letter(s). o t e h g o
+
+Guess a letter:
+f
+Letter f is a wrong guess.
+You have guessed (7) wrong letter(s). o t e h g o f
+
+Guess a letter:
+m
+-am--a--
+You have guessed (7) wrong letter(s):  o t e h g o f
+
+Guess a letter:
+
+b
+Letter b is a wrong guess.
+You have guessed (8) wrong letter(s). o t e h g o f b
+
+Guess a letter:
+e
+Letter e is a wrong guess.
+You have guessed (9) wrong letter(s). o t e h g o f b e
+
+Guess a letter:
+p
+Letter p is a wrong guess.
+You have guessed (10) wrong letter(s). o t e h g o f b e p
+*** Sorry you ran out of guesses.  Try again next time. ***
